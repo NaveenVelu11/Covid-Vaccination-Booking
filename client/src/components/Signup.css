@@ -1,0 +1,16 @@
+
+.btn:hover, .btn:focus, .btn:active{
+    background-color:#3b4acf ;
+    border: #3b4acf ;
+}
+
+#signin{
+    
+    box-sizing: border-box;
+    border: 0 solid;
+    background: #fff;
+    box-shadow: 5px 5px 10px 4px #d6d5d5e3;
+    border-radius: 5px;
+    
+    padding: 20px; 
+}

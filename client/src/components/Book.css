@@ -1,0 +1,15 @@
+
+#books{
+    
+    box-sizing: border-box;
+    border: 0 solid;
+    background: #fff;
+    box-shadow: 5px 5px 10px 4px #c4c5ca;
+    border-radius: 5px;
+   
+    padding: 20px; 
+}
+.btn:hover,.btn:focus,.btn:active{
+    background-color:#3b4acf ;
+    border: #3b4acf ;
+  }

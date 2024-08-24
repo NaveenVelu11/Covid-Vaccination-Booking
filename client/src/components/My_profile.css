@@ -1,0 +1,21 @@
+/* My_profile.css */
+
+/* Card styling for disabled interaction */
+.disabled-link {
+  pointer-events: none;
+  opacity: 0.7;
+}
+
+/* Additional styling for the container and rows for better alignment */
+.container {
+  margin-top: 100px; /* Adjust margin from top */
+}
+
+.row {
+  justify-content: center;
+  margin-top: 50px; /* Adjust margin from top */
+}
+
+.card {
+  margin: 20px 0;
+}

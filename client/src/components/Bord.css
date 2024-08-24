@@ -1,0 +1,11 @@
+#covid_lable p,#dose_lable p,#gender_lable p{    
+    font-size: 3vh;    
+    color: #5B67CD;
+}
+#gender,#covid,#doses{   
+    box-sizing: border-box;
+    border: 0 solid;
+    background: #fff;
+    box-shadow: 5px 5px 10px 4px #d6d5d5e3;
+    border-radius: 5px;   
+}
