@@ -128,13 +128,6 @@ const Login = () => {
                             </p>
                         </div>
                     </form>
-
-                    {/* Demo Credentials */}
-                    <div className="mt-6 p-4 bg-blue-50 border border-blue-200 rounded-xl">
-                        <p className="text-xs font-semibold text-blue-800 mb-2">Demo Credentials:</p>
-                        <p className="text-xs text-blue-700">Email: admin@vaxbook.com</p>
-                        <p className="text-xs text-blue-700">Password: admin123</p>
-                    </div>
                 </div>
             </div>
 
