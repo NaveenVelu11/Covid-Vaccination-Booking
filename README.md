@@ -75,7 +75,9 @@ npm install
 Create `.env` file in server directory:
 ```env
 PORT=5000
-MONGODB_URI=mongodb://localhost:27017/vaccination_booking
+=======
+MONGODB_URI=mongodb://localhost:27017
+>>>>>>> d97710cbfdac361607e5ea76f246c734754af396
 JWT_SECRET=your_jwt_secret_key_here
 JWT_EXPIRE=7d
 NODE_ENV=development
@@ -178,16 +180,8 @@ covid-vaccination-booking/
 - `GET /api/analytics/covid` - COVID history stats
 - `POST /api/analytics/dose` - Dose-wise trends
 
-## 🎨 Screenshots
 
-### Dashboard
-![Dashboard](https://via.placeholder.com/800x400?text=Dashboard+Analytics)
 
-### Book Slot
-![Book Slot](https://via.placeholder.com/800x400?text=Slot+Booking+Interface)
-
-### My Bookings
-![Bookings](https://via.placeholder.com/800x400?text=My+Bookings)
 
 ## 🔒 Security Features
 
@@ -207,25 +201,3 @@ covid-vaccination-booking/
 4. Push to branch (`git push origin feature/AmazingFeature`)
 5. Open Pull Request
 
-## 📝 License
-
-This project is licensed under the ISC License.
-
-## 👨‍💻 Author
-
-Your Name - [GitHub Profile](https://github.com/yourusername)
-
-## 🙏 Acknowledgments
-
-- React community for excellent documentation
-- MongoDB for robust database solution
-- Tailwind CSS for beautiful styling utilities
-- All open-source contributors
-
-## 📞 Support
-
-For support, email support@vaxbook.com or open an issue in the repository.
-
----
-
-⭐ Star this repo if you find it helpful!
