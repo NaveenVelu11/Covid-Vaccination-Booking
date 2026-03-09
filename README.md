@@ -178,16 +178,6 @@ covid-vaccination-booking/
 - `GET /api/analytics/covid` - COVID history stats
 - `POST /api/analytics/dose` - Dose-wise trends
 
-## 🎨 Screenshots
-
-### Dashboard
-![Dashboard](https://via.placeholder.com/800x400?text=Dashboard+Analytics)
-
-### Book Slot
-![Book Slot](https://via.placeholder.com/800x400?text=Slot+Booking+Interface)
-
-### My Bookings
-![Bookings](https://via.placeholder.com/800x400?text=My+Bookings)
 
 ## 🔒 Security Features
 
